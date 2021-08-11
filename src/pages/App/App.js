@@ -6,6 +6,17 @@ import StyledThings from '../StyledThings/StyledThings'
 
 class App extends Component {
   state = { 
+    cameronThings: [
+      {
+        name: "playstation 5"
+      },
+      {
+        name: "nintendo switch"
+      },
+      {
+        name: "xbox one"
+      }
+    ],
     davidsThings: [
       {
         name: "waffle",
