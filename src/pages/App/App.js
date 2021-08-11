@@ -28,7 +28,7 @@ class App extends Component {
         attributes: ["pastry?", "food?", "edible?", "Horrible when toasted!"], 
       },
     ],
-    shahzadsThings: [
+    zahirThings: [
       {
         name: "functional programming",
         image: "https://imgs.xkcd.com/comics/functional.png",  
